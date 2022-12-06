@@ -1,2 +1,2 @@
 # blockchain-public
-The official curriculum and calendar for Chaptr Blockchain Development programs
+The official curriculum and calendar for Zindua Blockchain Development programs
